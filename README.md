@@ -27,12 +27,13 @@ The following insights were obtained from the data:
 7. Most subscribed level in each course
 
 # Conclusion
-Udemy has a total of 11,760,483 subscribers with web development having more subscribers than the other three
-The course Subject with the most subscribers is Web Development
-Learn HTMLS Programming From Scratch is the most subscribed course
+1. Udemy has a total of 11,760,483 subscribers with web development having more subscribers than the other three
+2. The course Subject with the most subscribers is Web Development
+3. Learn HTMLS Programming From Scratch is the most subscribed course
  with value of 268,923
-The top course subscribed for based on Review was Web Developer Bootcamp
-The Course subject subscribed for based on level is Web Development (All levels).
+4. The top course subscribed for based on Review was Web Developer Bootcamp
+5. The Course subject subscribed for based on level is Web Development (All levels).
+
 With this analysis, it seems most of the population are seeing on education or landing a job that heeds toward website development, coding etc. which is evidently seen nowadays that data is the new oil as companies look for more individuals in tech.
 
 
