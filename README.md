@@ -4,7 +4,7 @@
 
 # Introduction
 Udemy, Inc. is an education technology company that provides an online learning and teaching platform. It was founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar.
-As of December 2022, the platform has 59 million learners, over 200,000 courses, and more than 70,000 instructors teaching courses in nearly 75 languages. There have been over 800 million course enrollments. Students take courses primarily to improve job-related skills.[4] Some courses generate credit toward technical certification. Udemy attracts corporate trainers seeking to create coursework for employees of their company.
+As of December 2022, the platform has 59 million learners, over 200,000 courses, and more than 70,000 instructors teaching courses in nearly 75 languages. There have been over 800 million course enrollments. Students take courses primarily to improve job-related skills. Some courses generate credit toward technical certification. Udemy attracts corporate trainers seeking to create coursework for employees of their company.
 
 # Project Overview
 This project was taken up to know how much people are subscribed on Udemy which is considered to be the most popular online education platform, to know which courses the students pay more money for which might give an insight to what part of education, learning or business the population are heading towards. 
